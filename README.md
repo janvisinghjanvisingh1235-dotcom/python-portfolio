@@ -21,6 +21,11 @@ A Python project for working with CSV data and performing basic data analysis.
 
 **File:** `csv_data_analyzer.py`
 
+### 4. 📝 To-Do List / Task Manager
+A simple command-line task manager built with Python. Users can add, view, and delete tasks.
+
+**File:** `todo_list.py`
+
 ## 🛠️ Skills I'm Learning
 
 - 🐍 Python
